@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git repository.
 <br>
-Author - Sadik Mulani (coder)
+Author - Sadik Shakil Mulani (coder)
